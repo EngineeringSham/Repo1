@@ -7,5 +7,6 @@ class Amol{
 
     public static void main(String[] args) {
              Amol.DoAddition();
+             System.out.println("Your Substraction Functnality We Used In the After Given Line....");
     }
 }
