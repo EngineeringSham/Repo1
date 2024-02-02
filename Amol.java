@@ -5,8 +5,14 @@ class Amol{
         System.out.println("Addition Of Your Two Number is "+20);
     }
 
+    // My Substraction File Here...
     public static void Substraction(){
         System.out.println("Addition Of Your Two Number is "+20);
+    }
+
+    // My Multiplication File Here....
+    public static void multiplication(){
+        System.out.println("Your Multiplication of Two Number is "+1000);
     }
 
     public static void main(String[] args) {
